@@ -7,8 +7,7 @@
 ---
 
 <h2 align="center">Chief Technical Officer of SSMiEDC | Web Developer | Application Developer | CS Engineer | Tech Enthusiast</h2>
-<br>
-<p align="center"><a href="https://github.com/mhdyazinkc"><img height="350" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" alt="Hello" /></a></p><br>
+<p align="center"><img height="450" <img src="./OpenSourceBro.png" alt=""></a></p>
 
 ## My Stack
 

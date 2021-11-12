@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">Chief Technical Officer of SSMiEDC | Web Developer | Application Developer | <br> CS Engineer | Tech Enthusiast</h2>
+<h2 align="center">Chief Technical Officer of SSMiEDC | Web Developer | Application Developer <br>| CS Engineer | Tech Enthusiast</h2>
 <p align="center"><img height="450" <img src="./OpenSourceBro.png" alt=""></a></p>
 
 ## My Stack

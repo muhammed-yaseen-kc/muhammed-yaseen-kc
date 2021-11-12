@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">Chief Technical Officer of SSMiEDC | Web Developer | Application Developer | CS Engineer | Tech Enthusiast</h2>
+<h2 align="center">Chief Technical Officer of SSMiEDC | Web Developer | Application Developer | <br> CS Engineer | Tech Enthusiast</h2>
 <p align="center"><img height="450" <img src="./OpenSourceBro.png" alt=""></a></p>
 
 ## My Stack
@@ -35,13 +35,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ---
+<br>
 <div align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=mhdyazinkc&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-   <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=Krishnadas-KD&theme=tokyonight&hide_border=true" />
+<!--    <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=Krishnadas-KD&theme=tokyonight&hide_border=true" /> -->
 </div>
+<br>
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdyazinkc&theme=tokyonight&layout=compact&hide_border=true"
 </div>
+<br>
+<br>
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mhdyazinkc&theme=github" alt="max-programming" /></p> 
 
 

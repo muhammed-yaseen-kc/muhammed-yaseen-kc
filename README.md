@@ -46,6 +46,6 @@
 </div>
 <br>
 <br>
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mhdyazinkc&theme=github" alt="max-programming" /></p> 
+<!-- <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mhdyazinkc&theme=github" alt="max-programming" /></p>  -->
 
 

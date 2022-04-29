@@ -37,19 +37,15 @@
 ---
 <br>
 <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=
-muhammed-yaseen-kc&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-   <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=
-muhammed-yaseen-kc&theme=tokyonight&hide_border=true" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=muhammed-yaseen-kc&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=muhammed-yaseen-kc&theme=tokyonight&hide_border=true" />
 </div>
 <br>
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-muhammed-yaseen-kc&theme=tokyonight&layout=compact&hide_border=true"
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-yaseen-kc&theme=tokyonight&layout=compact&hide_border=true"
 </div>
 <br>
 <br>
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=
-muhammed-yaseen-kc&theme=github" alt="max-programming" /></p> 
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=muhammed-yaseen-kc&theme=github" alt="max-programming" /></p> 
 
 

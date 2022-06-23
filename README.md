@@ -1,4 +1,4 @@
-<h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi there ! I'm Yaseen. </h1>
+<h2 align="center"> ✋Hi there ! I'm Yaseen. </h1>
 
 
 [![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mhd_yazin)
